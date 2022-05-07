@@ -1,2 +1,2 @@
 # NextUp
-Click on CODE dropdown(top right) --> download zip
+Click on CODE dropdown(top right) --> Download Zip
